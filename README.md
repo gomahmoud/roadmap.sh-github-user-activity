@@ -1,4 +1,4 @@
-# [CLI Task Tracker](github.com/gomahmoud/roadmap.sh-github-user-activity)
+# [CLI Task Tracker](https://roadmap.sh/projects/github-user-activity)
 
 A small command-line application to fetch the latest GitHub user activity. Activities are fetched in a JSON format, and then be parsed, formatted and presented in the CLI.
 
